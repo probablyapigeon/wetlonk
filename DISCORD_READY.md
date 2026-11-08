@@ -24,6 +24,8 @@ Live inspection (commands while running):
 
 Honest part: Research prototype (engine works, spec integration not yet wired). But the novel systems genuinely run.
 
+Privacy: 100% offline. No API calls. No tracking. All local.
+
 Try it:
 $env:PYTHONIOENCODING="utf-8"
 python dynamiclonk-py-v13-lonks-finally-have-ears-say-command-fixed.py
@@ -46,6 +48,9 @@ Yes. Skills (verbs) are learned and can be taught. One agent can learn something
 **"What's the incomplete part?"**  
 The spec language (XC) and world configuration file (LonkWorld.xc) exist and are good, but the engine doesn't read them yet. So you can't modify world parameters by editing a config file. The core systems work; the integration between spec and engine is the missing piece.
 
+**"Does it call an API or need internet?"**  
+No. Completely offline. 100% local computation. No external services. No tracking. Just Python + NumPy on your machine.
+
 **"Is it open source?"**  
 Yes. https://github.com/probablyapigeon/wetlonk MIT license.
 
@@ -62,6 +67,8 @@ Absolutely. The engine code is Python, readable, and designed to be edited. You 
 Core tech: weight-space programming + autonomous epistemology + learned skills + inner monologue + neuroscience consciousness model.
 
 Live commands: /thoughts, /memory, /identity, /emotion to watch them think.
+
+100% offline, no API calls, no tracking.
 
 Research prototype (novel engine, incomplete integration). Python + NumPy.
 
