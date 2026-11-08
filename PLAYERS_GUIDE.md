@@ -8,7 +8,20 @@
 
 You're the **Observer** of a civilization. Lonks (cute alien creatures) live, learn, interact, and build societies. Your job is to watch, inspect, influence, and see what story emerges.
 
-**TL;DR:** *Creatures with real AI brains. You watch them think. You can edit their brains. Cool emergent drama happens.*
+**TL;DR:** *Creatures with real AI brains. You watch them think. You can edit their brains. Cool emergent drama happens. 100% offline. No API calls. Privacy-first.*
+
+---
+
+## 🔒 PRIVACY FIRST
+
+This game is **completely offline**:
+- ✅ No internet needed
+- ✅ No API calls
+- ✅ No data tracking
+- ✅ Runs on your machine only
+- ✅ All computation local
+
+(See NO_API_CALLS.md if you want technical details.)
 
 ---
 

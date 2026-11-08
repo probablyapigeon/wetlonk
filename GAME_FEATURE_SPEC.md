@@ -2,6 +2,8 @@
 
 *A Strategy/Life Simulation with Real NPC Psychology*
 
+**🔒 Offline & Private:** No internet. No API calls. No tracking. All computation local.
+
 ---
 
 ## 🏆 CORE GAMEPLAY LOOP
@@ -312,6 +314,28 @@ Personality: Curious, diplomatic
 Starting beliefs: Trust others
 Starting skill: Gathering
 ```
+
+---
+
+## 🔒 PRIVACY & OFFLINE
+
+✅ **Fully Offline**
+- No internet required
+- No API calls
+- No data tracking
+- No usage analytics
+- No telemetry
+
+✅ **What's Included**
+- NumPy (linear algebra)
+- Python standard library
+- Your local machine
+
+✅ **Optional LLM Mode**
+- Advanced feature (research only)
+- Requires explicit setup
+- Not default behavior
+- See NO_API_CALLS.md for details
 
 ---
 
