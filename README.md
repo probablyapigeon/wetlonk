@@ -3,8 +3,10 @@
 > **A Novel AI System Combining Neural Learning, Emergent Epistemology, and Weight-Space Programming**
 
 [![Novelty Score](https://img.shields.io/badge/Novelty-8.5%2F10-brightgreen)]()
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-blue)]()
+[![Status](https://img.shields.io/badge/Status-Research%20Prototype-orange)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
+
+⚠️ **[READ THIS FIRST: HONEST_PROJECT_SUMMARY.md](HONEST_PROJECT_SUMMARY.md)** — Grounded assessment of what's implemented vs. incomplete
 
 ## Overview
 
